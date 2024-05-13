@@ -2,7 +2,7 @@
     3D-C2FT: Coarse-to-fine Transformer for Multi-view 3D Reconstruction
 </h1>
 <p align="center">
-    Leslie Ching Ow Tiong<sup>1</sup>,  Dick Sigmund<sup>2</sup>, Andrew Beng Jin Teoh<sup>&dagger;,3</sup>
+    Leslie Ching Ow Tiong<sup>*,1</sup>,  Dick Sigmund<sup>*,2</sup>, Andrew Beng Jin Teoh<sup>&dagger;,3</sup>
     <br/>
     <sup>1</sup>Korea Institute of Science and Technology, <sup>2</sup>AIDOT Inc., <sup>3</sup>Yonsei University
     <br/>
