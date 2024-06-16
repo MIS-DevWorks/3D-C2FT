@@ -11,7 +11,7 @@
     <sup>&dagger;</sup>Corresponding author
     <br/><br/>
     <a href="https://openaccess.thecvf.com/content/ACCV2022/html/Tiong_3D-C2FT_Coarse-to-fine_Transformer_for_Multi-view_3D_Reconstruction_ACCV_2022_paper.html">
-        <img src="https://img.shields.io/badge/paper-link-blue.svg" alt="Paper Link">
+        <img src="https://img.shields.io/badge/paper-ACCV-blue.svg" alt="Paper Link">
     </a>
 </p>
 <br/>
